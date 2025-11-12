@@ -1,2 +1,4 @@
 # Smart-ATM-System
-Console-based Smart ATM System using C++ with OOP and file handling.
+## 💳 Project Overview
+A simple **ATM Simulation System** written in C++ using **Object-Oriented Programming (OOP)** and **File Handling**.  
+This project mimics real-world ATM operations like deposits, withdrawals, and account management.
